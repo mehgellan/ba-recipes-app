@@ -67,7 +67,8 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Meg Bauman** - *Initial work* - [ASG, LLC @ Google](https://github.com/mehgellan)
+* **Meg Bauman** - [ASG, LLC @ Google](https://github.com/mehgellan)
+* **Nick Searle** - [ASG, LLC @ Google](https://github.com/nasearle)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
